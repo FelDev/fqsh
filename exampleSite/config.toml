@@ -1,5 +1,5 @@
 baseURL = "https://fqsh.netlify.app"
-disableLanguages = []
+disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
