@@ -11,7 +11,7 @@ contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = "2"
 [[Languages.en.menu.footer]]
 URL = "about"
 name = "About"
@@ -77,7 +77,7 @@ contentDir = "content/french"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = "1"
 [[Languages.fr.menu.footer]]
 URL = "about"
 name = "About"
