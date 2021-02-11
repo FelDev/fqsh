@@ -1,4 +1,5 @@
 baseURL = "https://fqsh.netlify.app"
+defaultContentLanguage = "fr"
 disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "4"
