@@ -1,3 +1,2 @@
-
-
 https://wowchemy.com/templates/
+Conclusion: Bof... Netlify CMS serait cool mais fack it.
