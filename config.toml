@@ -196,9 +196,9 @@ link = "plugins/magnific-popup/magnific-popup.min.js"
 [[params.plugins.js]]
 attributes = ""
 link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-attributes = "defer"
-link = "plugins/google-map/gmap.js"
+# [[params.plugins.js]]
+# attributes = "defer"
+# link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
 preloader = ""
