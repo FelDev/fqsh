@@ -147,11 +147,12 @@ home = ["HTML"]
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "highline.quebec@gmail.com"
 google_analitycs_id = ""
 location = "North Main Street,Brooklyn Australia"
-logo = "images/logo.png"
-logo_width = "150px"
+logo = "images/logo-v-small.png"
+logo_width = "104"
+logoSVG = "images/logo.svg"
 mobile = "0124857985320"
 multi_author = false
 [params.cookies]
