@@ -145,7 +145,6 @@ unsafe = true
 home = ["HTML"]
 [params]
 author = "Themefisher"
-contact_form_action = "#"
 description = "This is meta description"
 email = "highline.quebec@gmail.com"
 google_analitycs_id = ""

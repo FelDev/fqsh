@@ -7,7 +7,7 @@
 <section class="contact-form">
   <div class="container">
     <div class="row">
-      <form method="POST" action="{{ site.Params.contact_form_action | safeURL }}">
+      <form name="contact" netlify netlify-honeypot="money">
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <div class="form-group">
@@ -20,6 +20,10 @@
               <input name="user_subject" type="text" class="form-control" placeholder="Subject">
             </div>
           </div>
+          <p style="display: none;">
+            <label for="money">Name </label>
+            <input type="text" name="money" id="money" />
+          </p>
         </div>
         <div class="col-md-6 col-sm-12">
           <div class="block">
