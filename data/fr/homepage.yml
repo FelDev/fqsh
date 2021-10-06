@@ -14,7 +14,7 @@ about:
   title: À propos de nous !
   description: Dans forestry => Data (fr) => About
   content: Dans forestry => Data (fr) => About
-  image: images/wrapper-img.png
+  image: ''
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
