@@ -7,8 +7,8 @@ banner:
   content: C'est sécuritaire, OKAY!?
   button:
     enable: true
-    label: 'TODO: changer l''image de background'
-    link: project
+    label: 'TODO: Mettre une image de Kamou et un bouton vers la page à propos'
+    link: https://fqsh.netlify.app/about/
 about:
   enable: true
   title: À propos de nous !
