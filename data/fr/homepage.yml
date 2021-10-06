@@ -14,7 +14,7 @@ about:
   title: À propos de nous !
   description: Dans forestry => Data (fr) => About
   content: Dans forestry => Data (fr) => About
-  image: "/images/kak-mou.jpg"
+  image: images/kak-mou.jpg
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
