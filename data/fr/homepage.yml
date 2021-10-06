@@ -11,7 +11,7 @@ banner:
     link: project
 about:
   enable: true
-  title: À propos de nous autres
+  title: À propos de nous !
   description: Dans forestry => Data (fr) => About
   content: Dans forestry => Data (fr) => About
   image: images/wrapper-img.png
